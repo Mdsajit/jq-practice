@@ -1,0 +1,164 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.c_menu{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 0 40px;
+}
+.c_menu ul li{
+	padding: 0 20px;
+}
+.c_menu ul li a{
+	color: white !important;
+	text-decoration: none;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: bolder;
+	color: #14213d;
+	background: #fca311;
+}
+button, #hider, #shower {
+ text-align: center;
+ width: 200px;
+ border-radius: 50px;
+ font-size: 30px;
+ font-weight: bold;
+ color: #d62828;
+ background: #eae2b7;
+}
+
+.spnTen{
+
+ font-size: 40px;
+ font-weight: bolder;
+ color: #4d908e;
+ background: #d8f3dc;
+}
+.box{
+	background: #9b5de5;
+	width: 200px;
+	height: 150px;
+	margin: 2px;
+	float: left;
+}
+
+.show{
+	margin-top: 200px;
+	color: red;
+	background-color:#f0efeb ;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+#btnFive{
+ text-align: center;
+ width: 200px;
+ border-radius: 50px;
+ font-size: 30px;
+ font-weight: bold;
+ color: #ba181b;
+ background-color: #ddbea9;
+
+}
+  .spnSix {
+    display: none;
+  }
+  
+  .spnSix {
+    color: #4d194d;
+    background-color: #ff006e;
+    font-size: 30px;
+    font-weight: bold;
+}
+  
+  #divFive {
+    display: none;
+  }
+  #prgrph{
+    font-weight: bold;
+    background-color: #fcd;
+  }
+  .btnFive, input {
+  	margin-top: 15px;
+    width: 400px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    outline: none;
+    color: #003566;
+    background-color: #ffc300;
+  }
+  #btn77{
+    margin-top: 10px;
+     text-align: center;
+    width: 200px;
+   border-radius: 50px;
+    font-size: 30px;
+   font-weight: bold;
+   color: #5a189a;
+   background-color: #e0aaff;
+  }
+
+ .inp {
+    position: relative;
+    width: 400px;
+    height: 90px;
+    font-size: 16px;
+  }
+  .boxen {
+    position: absolute;
+    width: 400px;
+    height: 65px;
+    font-size: 36px;
+    text-align: center;
+    color: yellow;
+    background: red;
+    padding-top: 25px;
+    top: 0;
+    left: 0;
+    display: none;
+  }
+  .boxen span {
+    display: none;
+  }
+  #accordion h3{
+    border: 3px solid red;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #e76f51;
+  }
+
+  #accordion p{
+    font-size: 18px;
+    background-color: green;
+  }
+  div ,title{
+    font-size: 25px;
+    font-weight: bold;
+  }
+ .ui-menu { 
+  width: 150px;
+
+  }
+
+  #menu ul li div{
+    color: #e63946;
+    background-color: #a8dadc;
+  }
+
+#tabs p{
+  font-size: 18px;
+  color: #03045e;
+  background-color: #caf0f8;
+}
+
+#tabs ul li a{
+  font-size: 20px;
+  
+}  
